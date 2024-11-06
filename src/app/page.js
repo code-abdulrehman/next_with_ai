@@ -68,9 +68,9 @@ const fetchResponse = async () => {
           ))}
           {isLoading && ( 
             <div className="text-center flex flex-col gap-2">    
-              <div className="inline-block h-4 w-[450px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
-              <div className="inline-block h-4 w-[450px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
-              <div className="inline-block h-4 w-[450px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
+              <div className="inline-block h-4 w-[430px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
+              <div className="inline-block h-4 w-[430px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
+              <div className="inline-block h-4 w-[430px] mx-auto animate-pulse bg-gray-300 rounded-md"></div>
             </div>
           )}
         </div>
